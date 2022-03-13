@@ -1,5 +1,5 @@
 ---
-title: gaymer.social - Get in touch
+title: Gaymer.Social - Get in touch
 description: Want to get in touch? This page tells you how.
 permalink: /contact/
 layout: default
