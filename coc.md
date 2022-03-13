@@ -1,5 +1,5 @@
 ---
-title: gaymer.social - Code of Conduct
+title: Gaymer.Social - Code of Conduct
 description: Guidelines on how we expect our members to behave.
 permalink: /coc/
 layout: default
