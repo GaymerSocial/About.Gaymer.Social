@@ -38,9 +38,9 @@ The Fediverse is more than Mastodon, we not only provide an ethical alternative 
 
 -   [Status](https://status.gaymer.social/) - Keep track of past and ongoing issues
 -   [GitLab](https://gitlab.stux.cloud/) - Privacy friendly DevOps platform
--   [Sm.lol](https://sm.lol) - The #1 All in one linking service that is so smlol
+-   [Sm.lol](https://sm.lol) - The All in one linking service that is so smlol
 -   [Robo.St](https://robo.st) - The Discord Robot that can do everything in one
--   [BlockedIn.Net](https://blockedin.net) - The #1 Minecraft Network for the Best BlockedIn Experience
+-   [BlockedIn.Net](https://blockedin.net) - The Minecraft Network for the Best BlockedIn Experience
 
 
 ## Current costs other services
