@@ -1,5 +1,5 @@
 ---
-title: About gaymer.social
+title: About Gaymer.Social
 description: Some info on how things work around here.
 permalink: /about/
 layout: default
