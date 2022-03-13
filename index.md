@@ -1,7 +1,7 @@
 ---
-title: Fosstodon Hub
-header: Fosstodon Hub
-description: The largest FOSS focussed instance on the Fediverse.
+title: Gaymer.Social Hub
+header: Gaymer.Social Hub
+description: The largest social media for LGBT Gaymers in the Fediverse
 permalink: /
 layout: default
 ---
