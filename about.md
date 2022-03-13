@@ -12,7 +12,7 @@ At gaymer.social, we want to be as transparent as possible when it comes to the 
 
 ## How we assign funds
 
-When you make a donation, either by [Patreon](https://patreon.com/gaymer-social), [Ko-Fi](https://ko-fi.com/gaymer-social) or [PayPal](https://paypal.me/gaymer-social), it eventually ends up in our PayPal account. With this funding we do a couple of things:
+When you make a donation, it eventually ends up in our PayPal account. With this funding we do a couple of things:
 
 1.  We keep a 1-2 month float of running costs; so we know we have funding in place should we need extra cash for things like an unexpected server upgrade.
 2.  Anything over and above our running costs is accumulated in to new projects that benefit the Fediverse in any other way.
