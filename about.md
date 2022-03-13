@@ -1,59 +1,59 @@
 ---
-title: About | Fosstodon Hub
+title: About gaymer.social
 description: Some info on how things work around here.
 permalink: /about/
 layout: default
 ---
 # About Us
 
-The whole point of Fosstodon is to be a community of like-minded people who enjoy Free & Open Source Software (FOSS). Running a social network can be expensive, so [we accept donations in various forms](/support).
+The whole point of gaymer.social is to be a community of like-minded people who support the LGBTQ+ community, love video games and want to enjoy social media with love and respect. However, running, maintaining and improving a social network can be expensive, so [we accept donations in various forms](/support).
 
-From the very start, we committed to donating any extra money we have available to other open source project. This page will tell you a little more about what that process looks like - we also have a break down of how we use the funding at the bottom of this page.
-
-At Fosstodon, we want to be as transparent as possible when it comes to the support we receive from our members. You guys [support us](/support) every single day, so we want to let you know where your hard earned money is going.
+At gaymer.social, we want to be as transparent as possible when it comes to the support we receive from our members. People [support us](/support) every single day, so we want to let you know where your hard earned money is going.
 
 ## How we assign funds
 
-When you make a donation, either by [Patreon](https://patreon.com/fosstodon) or [PayPal](https://paypal.me/fosstodon), it eventually ends up in our PayPal account. With this funding we do a couple of things:
+When you make a donation, either by [Patreon](https://patreon.com/gaymer-social), [Ko-Fi](https://ko-fi.com/gaymer-social) or [PayPal](https://paypal.me/gaymer-social), it eventually ends up in our PayPal account. With this funding we do a couple of things:
 
-1.  We keep a 6 month float of running costs; so we know we have funding in place should we need extra cash for things like an unexpected server upgrade.
-2.  Anything over and above our running costs is accumulated in to donations to open source projects that our Patrons get to choose. We tend to save these funds up so we can make meaningful donations – usually a minimum of $100/donation.
+1.  We keep a 1-2 month float of running costs; so we know we have funding in place should we need extra cash for things like an unexpected server upgrade.
+2.  Anything over and above our running costs is accumulated in to new projects that benefit the Fediverse in any other way.
 
-## Project donations process
+## Current funding gaymer.social
 
-Once we have enough funds saved up to make a donation to a project, we will create a Patron-only post on our Patreon page, which include details on how you can recommend a project for donation.
+The details below are accurate as of **1st March 2022**.
 
-Once we have some recommendations from our Patrons, [the team](/team) will create a short list. Once the short list is created, we will create a survey so all of our members can vote on which project should get the donation.
+|             Details            |    Amount (GBP)    |
+|:------------------------------:|:------------------:|
+| Gaymer.Social Hosting:         | £20.00             |
+| Gaymer.Social CDN:             | £5.00              |
+| Gaymer.Social Mail:            | (Currently Free)   |
+| **Current monthly costs:**     | **£25.00**         |
+| **Current PayPal funding:**    | **£0.00**          |
+| **Total months funded:**       | **0.0**            |
 
-Again, this will stay open for a week and the project with the most votes at the end will get the donation.
+## Other projects we host
 
-We will then post details of any donations made to this page.
+The Fediverse is more than Mastodon, we not only provide an ethical alternative for social media platforms like Twitter and Facebook but we host also some additional services.
 
-## Current funding
+### Services
 
-The details below are accurate as of **30th November 2021**.
+-   [Status](https://status.gaymer.social/) - Keep track of past and ongoing issues
+-   [GitLab](https://gitlab.stux.cloud/) - Privacy friendly DevOps platform
+-   [Sm.lol](https://sm.lol) - The #1 All in one linking service that is so smlol
+-   [Robo.St](https://robo.st) - The Discord Robot that can do everything in one
+-   [BlockedIn.Net](https://blockedin.net) - The #1 Minecraft Network for the Best BlockedIn Experience
 
-|             Details            | Amount (USD) |
-|:------------------------------:|:------------:|
-| Fosstodon hosting: | $90.00       |
-| CDN hosting: | $20.00       |
-| Mattermost server: | $5.00       |
-| **Current monthly operating costs:** | **$115.00**      |
-| **Current PayPal funding:**       | **$834.00** |
-| **Total months funded:**           | **7.2**   |
 
-### Donations we have made
+## Current costs other services
 
-| Donation Recipient | Date | Donation Amount |
-|:------------------:|:----:|:---------------:|
-|  Mastodon                  |  04 Mar 19    | $150                |
-|  Elementary OS                  |  17 Jun 19    | $100                |
-|  Let's Encrypt                  |  17 Jun 19    | $100                |
-|  Pixelfed                  |  11 Jul 20    | $200                |
-|  Software Freedom Conservancy                  |  11 Jul 20    | $200                |
-|  Electronic Frontier Foundation                 |  19 Nov 20    | $200                |
-|  Tor Project                  |  19 Nov 20    | $200                |
-|  postmarketOS                 |  24 Nov 20    | $300                |
-|  European Digital Rights                  |  24 Nov 20    | $300                |
+The details below are accurate as of **1st March 2022**.
 
-| **Total donations made:**   |  **$1,750**       |
+|             Details            |    Amount (GBP)    |
+|:------------------------------:|:------------------:|
+| GitLab Hosting:                | £5.00              |
+| Sm.lol Hosting:                | £20.00             |
+| Robo.St Hosting:               | £25.00             |
+| BlockedIn.Net Hosting:         | £50.00             |
+| Sm.lol CDN                     | £5.00              |
+| Robo.St CDN                    | £5.00              |
+| BlockedIn.Net CDN              | £5.00              |
+| **Totals extra services:**     | **£115.00**        |
