@@ -1,36 +1,35 @@
 ---
-title: Mastodon Coffee
-header: Mastodon Coffee
-description: Explore and discover social media the fun way.
+title: Gaymer.Social
+header: Gaymer.Social
+description: Some info on how things work around here.
 permalink: /
 layout: default
 ---
-
 # About Us
 
-The whole point of Mastodon.Coffee is to be a community of like-minded people who enjoy social media with love and respect. Running a social network can be expensive, so [we accept donations in various forms](/support).
-
-At Mastodon.Coffee, we want to be as transparent as possible when it comes to the support we receive from our members. You guys [support us](/support) every single day, so we want to let you know where your hard earned money is going.
+The whole point of Gaymer.Social is to be a community of like-minded people who support the LGBTQ+ community, love video games and want to enjoy social media with love and respect. However, running, maintaining and improving a social network can be expensive, so [we accept donations in various forms](/support).
+At Gaymer.Social, we want to be as transparent as possible when it comes to the support we receive from our members. People [support us](/support) every single day, so we want to let you know where your hard earned money is going.
 
 ## How we assign funds
 
-When you make a donation, either by [Patreon](https://patreon.com/Mstdn) or [PayPal](https://paypal.me/stuxOS), it eventually ends up in our PayPal account. With this funding we do a couple of things:
+When you make a [donation](/support), it eventually ends up in our PayPal account.
+With this funding we do a couple of things:
 
 1.  We keep a 1-2 month float of running costs; so we know we have funding in place should we need extra cash for things like an unexpected server upgrade.
 2.  Anything over and above our running costs is accumulated in to new projects that benefit the Fediverse in any other way.
 
-## Current funding Mastodon.Coffee
+## Current funding Gaymer.Social
 
-The details below are accurate as of **22th May 2022**.
+The details below are accurate as of **1st March 2022**.
 
-|             Details            | Amount (EUR) |
-|:------------------------------:|:------------:|
-| Mastodon.Coffee hosting(CX21): | €5.93       |
-| Media storage (Min 3month): | ~€1.00       |
-| MailGun SMTP: | €0.00       |
-| **Current monthly operating costs:** | **€6.93**      |
-| **Current PayPal funding:**       | **€50.00** |
-| **Total months funded:**           | **7.22**   |
+|             Details            |    Amount (GBP)    |
+|:------------------------------:|:------------------:|
+| Gaymer.Social Hosting:         | £20.00             |
+| Gaymer.Social CDN:             | £5.00              |
+| Gaymer.Social Mail:            | (Currently Free)   |
+| **Current monthly costs:**     | **£25.00**         |
+| **Current PayPal funding:**    | **£0.00**          |
+| **Total months funded:**       | **0.0**            |
 
 ## Other projects we host
 
@@ -38,38 +37,24 @@ The Fediverse is more than Mastodon, we not only provide an ethical alternative 
 
 ### Services
 
--   [Status](https://status.mstdn.social/) - Keep track of past and ongoing issues
--   [PeerTube](https://peertube.tv/) - Federated video sharing
--   [Pixelfed](https://pixey.org/) - Federated photo sharing
--   [Misskey](https://misskey.ai/) - Federated social network(like Facebook)
--   [Matrix + Element](https://chat.mstdn.social/) - Secure, federated chat
--   [Searx](https://searx.mstdn.social/) - Privacy search engine proxy
--   [AllTube](https://ytd.mstdn.social/) - Download videos from everywhere
--   [Lstu](https://lstu.mstdn.social/) - Privacy-friendly URL shortner
--   [RSS Bridge](https://rss.mstdn.social/) - Generate RSS feed from anything
--   [mstdn.social](https://mstdn.social/) - Main Mastodon server
-
-### Alternate FE
-
--   [Halcyon](https://halcyon.mstdn.social/) - Alternate Mastodon front-end
--   [Invidious](https://yt.mstdn.social/) - Alternate YouTube front-end
--   [Nitter](https://nitter.mstdn.social/) - Alternate Twitter front-end
--   [Bibliogram](https://bibliogram.mstdn.social/) - Alternate InstaGram front-end
+-   [Status](https://status.gaymer.social/) - Keep track of past and ongoing issues
+-   [GitLab](https://gitlab.stux.cloud/) - Privacy friendly DevOps platform
+-   [Sm.lol](https://sm.lol) - The All in one linking service that is so smlol
+-   [Robo.St](https://robo.st) - The Discord Robot that can do everything in one
+-   [BlockedIn.Net](https://blockedin.net) - The Minecraft Network for the Best BlockedIn Experience
 
 
 ## Current costs other services
 
-The details below are accurate as of **22th May 2022**.
+The details below are accurate as of **1st March 2022**.
 
-|             Details            | Amount (EUR) |
-|:------------------------------:|:------------:|
-| Pixey.org(CX41): | €19.24       |
-| Misskey.ai(CX41): | €19.24       |
-| Matrix + Element(CX41): | €19.24       |
-| mstdn.social(CX21): | €400.48       |
-| AlterFE's(CPX41): | €27.71       |
-| Pixey Storage(500GB): | €24.20       |
-| Misskey Storage(500GB): | €24.20       |
-| PeerTube | ~€25.00      |
-| CatDownload.com(CPX31)       | €15.00 |
-| **Totals extra services:**           | **€574.22**   |
+|             Details            |    Amount (GBP)    |
+|:------------------------------:|:------------------:|
+| GitLab Hosting:                | £5.00              |
+| Sm.lol Hosting:                | £20.00             |
+| Robo.St Hosting:               | £25.00             |
+| BlockedIn.Net Hosting:         | £50.00             |
+| Sm.lol CDN                     | £5.00              |
+| Robo.St CDN                    | £5.00              |
+| BlockedIn.Net CDN              | £5.00              |
+| **Totals extra services:**     | **£115.00**        |
