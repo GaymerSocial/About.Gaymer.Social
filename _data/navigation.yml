@@ -1,9 +1,6 @@
 - name: Home
   link: /
 
-- name: About
-  link: /about/
-
 - name: Code of Conduct
   link: /coc/
 
@@ -13,5 +10,5 @@
 - name: Contact
   link: /contact/
 
-- name: The Team
+- name: Team
   link: /team/
