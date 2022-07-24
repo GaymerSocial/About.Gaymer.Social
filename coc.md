@@ -6,9 +6,9 @@ layout: default
 ---
 # Code of Conduct
 
-This document lays out the ground rules for participating in the gaymer.social community. It is intended to protect all members of our community from harassment and to ensure that our community is as welcoming and inclusive as possible. This is a working document, so the [gaymer.social team](/team) may amend this CoC to better meet these goals in the future.
+This document lays out the ground rules for participating in the Gaymer.Social community. It is intended to protect all members of our community from harassment and to ensure that our community is as welcoming and inclusive as possible. This is a working document, so the [Gaymer.Social Team](/team) may amend this CoC to better meet these goals in the future.
 
-The following guidelines are not a legal document, and final interpretation is up to the administration of gaymer.social; they are here to provide you with an insight into our content moderation policies:
+The following guidelines are not a legal document, and final interpretation is up to the administration of Gaymer.Social; they are here to provide you with an insight into our content moderation policies:
 
 1.  The following types of content will be removed from the public timeline:
     1.  Excessive advertising
@@ -41,10 +41,10 @@ These provisions notwithstanding, the administration of the service reserves the
 
 ## Non-Goals
 
-While it's important to know what gaymer.social is, it's just as important to understand what we're not. gaymer.social is **not**:
+While it's important to know what Gaymer.Social is, it's just as important to understand what we're not. Gaymer.Social is **not**:
 
-* A free speech zone. gaymer.social is a community with specific — and high — standards of behaviour. If you would like to exercise your full free speech rights, you can do so **somewhere else**; while on gaymer.social, you should agree to follow the community rules set out in this CoC.
-* An advocacy space. There are many important, controversial and political issues; and advocating for what you believe is important. However, gaymer.social is not the place for that advocacy. Even correct views can violate our CoC.
+* A free speech zone. Gaymer.Social is a community with specific — and high — standards of behaviour. If you would like to exercise your full free speech rights, you can do so **somewhere else**; while on Gaymer.Social, you should agree to follow the community rules set out in this CoC.
+* An advocacy space. There are many important, controversial and political issues; and advocating for what you believe is important. However, Gaymer.Social is not the place for that advocacy. Even correct views can violate our CoC.
 
 ## Reporting Violations
 
@@ -52,7 +52,7 @@ If you notice a toot that violates this code of conduct, *please* report it. It 
 
 ## Catch-all
 
-The moderation team will always take a pragmatic approach to every report they receive - if they feel that a problematic Toot isn't explicitly called out in this CoC, yet is inappropriate for gaymer.social, the Toot will likely be removed and the member will be dealt with appropriately.
+The moderation team will always take a pragmatic approach to every report they receive - if they feel that a problematic Toot isn't explicitly called out in this CoC, yet is inappropriate for Gaymer.Social, the Toot will likely be removed and the member will be dealt with appropriately.
 
 ## Cross-posting
 

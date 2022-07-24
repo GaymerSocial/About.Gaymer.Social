@@ -1,5 +1,5 @@
 ---
-title: Support Gaymer.Social
+title: Gaymer.Social - Support Us
 description: Information on how you can help keep the lights on.
 permalink: /support/
 layout: default
