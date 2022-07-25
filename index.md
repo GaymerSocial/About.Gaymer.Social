@@ -8,7 +8,8 @@ layout: default
 # About Us
 
 The whole point of Gaymer.Social is to be a community of like-minded people who support the LGBTQ+ community, love video games and want to enjoy social media with love and respect. However, running, maintaining and improving a social network can be expensive, so [we accept donations in various forms](/support).
-At Gaymer.Social, we want to be as transparent as possible when it comes to the support we receive from our members. People [support us](/support) every single day, so we want to let you know where your hard earned money is going.
+At Gaymer.Social, we want to be as transparent as possible when it comes to the support we receive from our members. People [support us](/support) every single day, so we want to let you know where your hard earned money is going.  
+Our social media uses the open source fediverse social platform known as <a rel="me" href="https://gaymer.social/@stuxiedev">Mastodon</a>  
 
 ## How we assign funds
 
