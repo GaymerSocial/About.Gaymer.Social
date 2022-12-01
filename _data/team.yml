@@ -1,23 +1,23 @@
 - name: StuxieDev
-  role: Admin
+  role: Administrator
   avatar: /assets/images/avatars/stuxiedev.gif
   link: https://gaymer.social/@stuxiedev
-  description: Stux is the founder of Gaymer.Social
+  description: StuxieDev is the founder of Gaymer.Social. They created Gaymer.Social as they felt that current social platforms for not LGBTQ+ friendly enough.
 
 - name: JulyTheNeon
-  role: Moderator
+  role: Administrator
   avatar: /assets/images/avatars/julytheneon.png
   link: https://gaymer.social/@julytheneon
-  description: JulyTheNeon is a moderator on Gaymer.Social
+  description: JulyTheNeon is a moderator on Gaymer.Social. They have emergency access to the servers that power the Gaymer.Social services.
 
 - name: Syyrenn
   role: Moderator
   avatar: /assets/images/avatars/syyrenn.png
   link: https://gaymer.social/@syyrenn
-  description: Syyrenn is a moderator on Gaymer.Social
+  description: Syyrenn is a moderator on Gaymer.Social. They help to ensure the platforms stay LGBTQ+ friendly.
 
-- name: That1TransGamer
+- name: ThatOneTransGamer
   role: Moderator
   avatar: /assets/images/avatars/thatonetransgamer.png
   link: https://gaymer.social/@that_one_trans_gamer
-  description: That One Trans Gamer is a moderator on Gaymer.Social
+  description: That One Trans Gamer is a moderator on Gaymer.Social. They help to ensure the platforms stay LGBTQ+ friendly.
