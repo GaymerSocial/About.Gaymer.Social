@@ -24,7 +24,7 @@ If you're a Gaymer.Social member and want to contribute to the project without y
 
 The last thing you want to see when you put your own money into a project is that money wasted or have that project disappear overnight without a trace. We understand that, and we want to be as transparent about this as possible.
 
-We keep 6 months of funding in our account to keep the lights on at Gaymer.Social. Any funds above and beyond that are collected and donated to a project chosen by our contributors.
+We keep **3** months of funding in our account to keep the lights on at Gaymer.Social. Any funds above and beyond that are collected and donated to a project chosen by our contributors.
 
 If for some reason we decide to shutdown Gaymer.Social, we will stop taking contributions immediately and use the funds already in our account to fund the service for the full 6 months remaining. That should give everybody an opportunity to find a new home in the Fediverse.
 
