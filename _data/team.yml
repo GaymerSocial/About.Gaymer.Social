@@ -3,21 +3,9 @@
   avatar: /assets/images/avatars/stuxiedev.png
   link: https://gaymer.social/@stuxiedev
   description: StuxieDev is the Owner of Gaymer.Social. They created Gaymer.Social as they felt that current social platforms for not LGBTQ+ friendly enough.
-
-- name: JulyTheNeon
-  role: Admin
-  avatar: /assets/images/avatars/julytheneon.png
-  link: https://gaymer.social/@julytheneon
-  description: JulyTheNeon is a adminstrator on Gaymer.Social. They have emergency access to the servers that power the Gaymer.Social services.
-
+  
 - name: Nyx Sutcliffe
-  role: Mod
+  role: Admin
   avatar: /assets/images/avatars/nyxsutcliffe.png
   link: https://gaymer.social/@nyxsutcliffe
   description: Nyx Sutcliffe is a moderator on Gaymer.Social. They are the partner of StuxieDev and help to ensure the platforms stay LGBTQ+ friendly.
-
-- name: Queer Lynx
-  role: Mod
-  avatar: /assets/images/avatars/queerlynx.png
-  link: https://gaymer.social/@queerlynx
-  description: Queer Lynx is a moderator on Gaymer.Social. They are a friend of StuxieDev and help to ensure the platforms stay LGBTQ+ friendly.
