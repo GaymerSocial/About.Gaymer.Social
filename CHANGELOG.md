@@ -2,6 +2,11 @@
 
 All notable changes to this repo are documented here.
 
+## v2.1.1
+
+### Changed
+- `commit.sh`/`commit.bat` tag messages updated from `GaymerSocial/AboutPage` to `GaymerSocial/About`, following the GitHub repo rename that dropped "Page" from the name
+
 ## v2.1.0
 
 ### Added
