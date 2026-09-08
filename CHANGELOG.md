@@ -2,6 +2,11 @@
 
 All notable changes to this repo are documented here.
 
+## v2.1.3
+
+### Added
+- Favicon (`assets/icon.png`) reference in `index.html`/`404.html` now carries `?v=2.1.3` so browser/CDN caches invalidate if the icon is ever replaced — this is a plain static site with no build step, so the version string has to be bumped by hand alongside any future icon change
+
 ## v2.1.2
 
 ### Changed
